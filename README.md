@@ -1,20 +1,31 @@
-<h1> Project Overview </h1>
-<p> The Electricity Bill System is a comprehensive software solution designed to automate and streamline the electricity billing process. Developed by Group 17, this system provides an efficient way to manage customer data, meter readings, bill generation, payment processing, and reporting. </p>
+# ⚡ Electricity Bill System  
+**Developed by Group 17**
 
+## 📌 Project Overview
 
-<h2> Features:</h2>
-  <b> Customer Management:</b> Register new customers, update existing records, and deactivate accounts when needed <br>
-  <b> Meter Reading Management: </b> Record and track meter readings for accurate billing <br>
-  <b> Bill Generation: </b> Automatically calculate bills based on consumption and tariff plans <br>
-  <b> Reporting:</b> Generate customized reports for usage patterns, revenue, and outstanding payments <br>
-  <b> Dashboard:</b> Intuitive dashboard with key metrics and notifications <br>
+The **Electricity Bill System** is a comprehensive software solution designed to automate and streamline the electricity billing process. Developed as a team project by **Group 17**, the system offers an efficient way to manage customer data, meter readings, bill generation, payment processing, and reporting.
 
+---
 
-<h2> Technologies Used: </h2>
-  <b> Frontend: </b> JavaFX <br>
-  <b> Backend: </b> Java <br>
-  <b> Database: </b> MySQL <br>
+## 🚀 Features
 
+- **Customer Management**: Register new customers, update existing records, and deactivate accounts when needed.
+- **Meter Reading Management**: Record and track meter readings for accurate billing.
+- **Bill Generation**: Automatically calculate bills based on consumption and tariff plans.
+- **Reporting**: Generate customized reports for usage patterns, revenue, and outstanding payments.
+- **Dashboard**: Intuitive dashboard displaying key metrics and notifications.
 
+---
 
+## 🛠️ Technologies Used
 
+- **Frontend**: JavaFX
+- **Backend**: Java
+- **Database**: MySQL
+
+---
+## 👨‍💻 
+**Nirush Man Shrestha**  
+University of Bedfordshire 
+CIS096-1 - Principles Of Programming And Data Structures 
+Semester 2 Project 
