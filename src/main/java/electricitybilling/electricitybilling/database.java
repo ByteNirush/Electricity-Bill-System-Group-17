@@ -11,7 +11,7 @@ public class database {
     database() {
         try {
             // Create a connection to the MySQL database
-            connection = DriverManager.getConnection("jdbc:mysql://127.0.0.1:3306/Bill_system", "root", "Nirush");
+            connection = DriverManager.getConnection("jdbc:mysql://127.0.0.1:3306/#", "root", "#");
             // Create a statement object to execute SQL queries
             statement = connection.createStatement();
         } catch (Exception e) {
